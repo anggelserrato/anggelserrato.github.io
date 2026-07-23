@@ -40,14 +40,14 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Serrato.Dev",
     url: "/",
-    title: "Serrato.Dev | Software Engineer Portfolio",
+    title: "Serrato.Dev | Software Engineer",
     description:
       "Personal portfolio of Angel Serrato, a Software Engineer. Check out my projects and get in touch!",
   },
 
   twitter: {
     card: "summary_large_image",
-    title: "Serrato.Dev | Software Engineer Portfolio",
+    title: "Serrato.Dev | Software Engineer",
     description:
       "Personal portfolio of Angel Serrato, a Software Engineer. Check out my projects and get in touch!",
   },
